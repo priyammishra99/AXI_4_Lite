@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project implements the **AXI4-Lite protocol** in **SystemVerilog **. It includes the Master, Slave, and Top modules, along with a testbench to verify read and write transactions.
+This project implements the **AXI4-Lite protocol** in SystemVerilog . It includes the Master, Slave, and Top modules, along with a testbench to verify read and write transactions.
 
 ## Features
 
