@@ -22,7 +22,7 @@ This project implements the **AXI4-Lite protocol** in **Verilog HDL**. It includ
 
 ## Simulation
 
-The design has been verified using a Verilog testbench by performing successful AXI4-Lite read and write operations.
+The design has been verified using a SystemVerilog testbench by performing successful AXI4-Lite read and write operations.
 
 ## Author
 
