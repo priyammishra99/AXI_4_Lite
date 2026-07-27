@@ -1,8 +1,8 @@
-# AXI4-Lite Interface in Verilog
+# AXI4-Lite Interface in SystemVerilog
 
 ## Overview
 
-This project implements the **AXI4-Lite protocol** in **Verilog HDL**. It includes the Master, Slave, and Top modules, along with a testbench to verify read and write transactions.
+This project implements the **AXI4-Lite protocol** in **SystemVerilog HDL**. It includes the Master, Slave, and Top modules, along with a testbench to verify read and write transactions.
 
 ## Features
 
